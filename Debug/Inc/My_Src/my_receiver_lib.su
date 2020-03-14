@@ -1,0 +1,5 @@
+my_receiver_lib.c:28:6:usart_DMA_init	8	static
+my_receiver_lib.c:37:6:HAL_UART_RxCpltCallback	16	static
+my_receiver_lib.c:128:5:SignalGet	0	static
+my_receiver_lib.c:134:6:CommandGet	8	static
+my_receiver_lib.c:157:6:Busprotocol	32	static

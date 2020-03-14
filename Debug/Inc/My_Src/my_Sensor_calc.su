@@ -1,0 +1,8 @@
+my_Sensor_calc.c:429:7:invSqrt	0	static
+my_Sensor_calc.c:37:6:sensorcalcQ_madwic	64	static
+my_Sensor_calc.c:107:6:sensorcalcQ_mahony	56	static
+my_Sensor_calc.c:180:6:Yaw_data_get	40	static
+my_Sensor_calc.c:207:6:sensorcalcQ_madwic_addpilter	88	static
+my_Sensor_calc.c:294:6:sensorcalcQ_mahony_9	120	static
+my_Sensor_calc.c:398:6:calc_Q_to_E	32	static
+my_Sensor_calc.c:415:7:sensfusion6GetAccZWithoutGravity	0	static

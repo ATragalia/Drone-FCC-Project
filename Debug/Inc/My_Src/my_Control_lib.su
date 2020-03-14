@@ -1,0 +1,3 @@
+my_Control_lib.c:40:6:Total_Init	8	static
+my_Control_lib.c:76:6:stabilizer_Loop	120	static
+my_Control_lib.c:162:6:calibration_Loop	24	static

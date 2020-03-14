@@ -1,0 +1,14 @@
+my_GY_86_lib.c:30:11:Read_reg_8	32	static
+my_GY_86_lib.c:41:6:Write_reg	24	static
+my_GY_86_lib.c:48:6:Calc_TP	56	static
+my_GY_86_lib.c:82:6:MPU_6050_init	8	static
+my_GY_86_lib.c:94:6:HMC5883L_init	8	static
+my_GY_86_lib.c:129:6:MS5611_init	56	static
+my_GY_86_lib.c:159:6:Read_MPU6050_Data	80	static
+my_GY_86_lib.c:190:6:Read_HMC5883L_Data	56	static
+my_GY_86_lib.c:222:6:Read_MS5611_Data	24	static
+my_GY_86_lib.c:260:9:Total_Calibration	64	static
+my_GY_86_lib.c:335:6:Mag_calibration	24	static
+my_GY_86_lib.c:354:6:Read_9axisData	16	static
+my_GY_86_lib.c:393:10:Read_MSData	16	static
+my_GY_86_lib.c:424:6:DT_Reset	0	static

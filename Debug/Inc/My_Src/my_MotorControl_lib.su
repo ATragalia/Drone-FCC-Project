@@ -1,0 +1,5 @@
+my_MotorControl_lib.c:18:6:Motor_init	8	static
+my_MotorControl_lib.c:42:6:MotorESCcalibration	8	static
+my_MotorControl_lib.c:68:6:Motor_Tinit	48	static
+my_MotorControl_lib.c:85:6:Motor_Test	12	static
+my_MotorControl_lib.c:101:6:Motor_Control	24	static
